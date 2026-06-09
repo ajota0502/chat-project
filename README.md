@@ -6,13 +6,14 @@ Mini módulo de mensajes full-stack con:
 - Frontend: Next.js App Router + @tanstack/react-query.
 
 ## URLs deployadas
-- Frontend: https://frontend-g0nbutkoy-alejandro-madrid-s-projects.vercel.app
+- Frontend:
+https://frontend-nb5qdqslw-alejandro-madrid-s-projects.vercel.app
 - Backend: https://backend.authcodechatbot.workers.dev
 
 ## Ejemplo
 Abre el chat de prueba en:
 
-- https://frontend-g0nbutkoy-alejandro-madrid-s-projects.vercel.app/chats/1
+- https://frontend-nb5qdqslw-alejandro-madrid-s-projects.vercel.app/chats/1
 
 ## Cómo correr local
 
