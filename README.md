@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chat Project
 
 Mini módulo de mensajes full-stack con:
@@ -58,6 +57,4 @@ También inserta un chat demo con mensajes iniciales.
 
 La UI muestra los mensajes alineados por dirección y permite enviar/borrar mensajes.
 =======
-# chat-project
-Chat
->>>>>>> 112bebf5e9b9382dd3f81f79f76155df5edc3b19
+
